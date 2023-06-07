@@ -12,7 +12,7 @@
     width: 100%;
     background-position: center;
     background-size: cover;
-    background-image: url(zazu_mophasa-58.jpg);
+    background-image: url(code.jpeg);
 }
 nav{
     display: flex;
@@ -23,13 +23,13 @@ nav{
     padding-right: 8%;
 }
 .logo{
-    color: white;
+    color: black;
     font-size: 35px;
     letter-spacing: 2px;
     cursor: pointer;
 }
 span{
-    color: #f9004d;
+    color: gray;
 }
 nav ul li{
     list-style-type: none;
@@ -37,18 +37,18 @@ nav ul li{
     padding: 10px 25px;
 }
 nav ul li a{
-    color: chartreuse;
+    color: blueviolet;
     text-decoration: none;
     font-size: larger;
     font-weight: bold;
     text-transform: capitalize;
 }
 nav ul li a:hover{
-    color:  blue;
+    color:  gray;
     transition: .4s;
 }
 .btn{
-    background-color: #f9004d;
+    background-color: gainsboro;
     color: black;
     text-decoration: none;
     border: 2px solid transparent;
@@ -310,6 +310,6 @@ footer p:nth-child(2){
   
   .social-icons a {
     margin-right: 10px;
-    color: #000;
+    color: #334c72;
     font-size: 20px;
   }
