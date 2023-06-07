@@ -303,3 +303,13 @@ footer p:nth-child(2){
     text-align: center;
     margin-left: 500px;
 }
+.social-icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .social-icons a {
+    margin-right: 10px;
+    color: #000;
+    font-size: 20px;
+  }
